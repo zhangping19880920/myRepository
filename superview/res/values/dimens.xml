@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ll_controlplane_width">250dip</dimen>
+    <dimen name="ll_controlplane_height">350dip</dimen>
+    <dimen name="lv_controlplane_width">225dip</dimen>
+    <dimen name="lv_controlplane_height">300dip</dimen>
+    <dimen name="tv_controlplane_title_size">23dip</dimen>
+    <dimen name="v_controlplane_div_height">2dip</dimen>
+    <dimen name="v_controlplane_margin">5dip</dimen>
+    <dimen name="iv_controlplane_marginright">10dip</dimen>
+    <dimen name="iv_controlplane_exit_width_height">26dip</dimen>
+</resources>

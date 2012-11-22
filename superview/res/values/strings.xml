@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SuperviewActivity!</string>
+    <string name="app_name">Superview</string>
+	<string name="controlplane_title">请选择</string>
+	<string name="config_preference_name">config</string>
+	<string name="config_preference_indicator_location_x_key">indicator_x</string>
+	<string name="config_preference_indicator_location_y_key">indicator_y</string>
+	
+	<string-array name="control_plane_array">
+		<item >视频播放器</item>
+		<item >音乐播放器</item>
+	</string-array>
+	<integer-array name="listview_item_id">
+		<item >1000</item>
+		<item >1001</item>
+		<item >1002</item>
+		<item >1003</item>
+	</integer-array>
+</resources>
